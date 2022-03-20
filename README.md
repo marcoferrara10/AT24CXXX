@@ -1,2 +1,2 @@
 # AT24CXXX
-Arduino library for AT24C128 or AT24C256
+Arduino library to read/write from an AT24C128/256 EEPROM
